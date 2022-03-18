@@ -1,0 +1,17 @@
+{
+  "name": "mini-message-board",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yuji T <accmanager1990@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "16.13.2"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
